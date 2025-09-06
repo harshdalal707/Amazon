@@ -1,3 +1,0 @@
-# Amazon
-beginner
-amazon webpage 
